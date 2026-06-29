@@ -1,0 +1,38 @@
+[
+  {
+    "id": "FRZ-001",
+    "customerName": "Apex Health Corp",
+    "model": "Ultra-Low Temp Refrigerator",
+    "status": "Normal"
+  },
+  {
+    "id": "FRZ-002",
+    "customerName": "Vellore Lab Facility",
+    "model": "Plasma Storage Freezer",
+    "status": "Warning"
+  },
+  {
+    "id": "FRZ-003",
+    "customerName": "Chennai Research Inst",
+    "model": "Cryogenic Dewar Cabinet",
+    "status": "Normal"
+  },
+  {
+    "id": "FRZ-004",
+    "customerName": "Apollo Pharma",
+    "model": "Bio-Medical Freezer",
+    "status": "Critical"
+  },
+  {
+    "id": "FRZ-005",
+    "customerName": "National Vaccine Hub",
+    "model": "Ultra-Low Temp Refrigerator",
+    "status": "Normal"
+  },
+  {
+    "id": "frz-23546",
+    "customerName": "dn labs",
+    "model": "newgen",
+    "status": "Normal"
+  }
+]
