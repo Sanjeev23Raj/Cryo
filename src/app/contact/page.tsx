@@ -25,7 +25,7 @@ const departments = [
   {
     name: "R&D Department",
     head: "Dinesh Nagarajan (Head)",
-    email: "nd@cryoscientific.com",
+    email: "rnd@cryoscientific.com",
     phone: "6374115904",
     icon: Cpu,
     color: "text-red-500 bg-red-500/10"
